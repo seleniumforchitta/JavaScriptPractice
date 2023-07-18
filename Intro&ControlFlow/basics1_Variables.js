@@ -55,4 +55,6 @@ console.log(parseInt('20.66'))
 var aa = parseFloat('20.66')
 console.log(typeof(aa))
 
+console.log(`Hello I am Tick`)
+
 
