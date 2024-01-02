@@ -21,8 +21,8 @@ console.log(t1.description)
 console.log(t1.toString)
 
 const student = {
-    fname: 'Chitta',
-    lname: 'Swain',
+    fname: 'Abhishek',
+    lname: 'Rajan',
     age: 34,
     weight: '78'
 }
